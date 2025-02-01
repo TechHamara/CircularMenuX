@@ -148,3 +148,20 @@ Set the gap between items in degrees
 * Input type: `number`
 ### Demos
 ![Image Alt](https://github.com/TechHamara/CircularMenuX/blob/main/demo/1.jpg)
+
+![Image Alt](https://github.com/TechHamara/CircularMenuX/blob/main/demo/Demo_blocks.png)
+![Image Alt](https://github.com/TechHamara/CircularMenuX/blob/main/demo/1.jpg)
+![Image Alt](https://github.com/TechHamara/CircularMenuX/blob/main/demo/2.jpg)
+![Image Alt](https://github.com/TechHamara/CircularMenuX/blob/main/demo/3.jpg)
+![Image Alt](https://github.com/TechHamara/CircularMenuX/blob/main/demo/4.jpg)
+![Image Alt](https://github.com/TechHamara/CircularMenuX/blob/main/demo/5.jpg)
+<br>
+![demo1](https://github.com/TechHamara/CircularMenuX/blob/main/demo/demo1.gif)
+![demo2](https://github.com/TechHamara/CircularMenuX/blob/main/demo/demo2.gif)
+![demo3](https://github.com/TechHamara/CircularMenuX/blob/main/demo/demo3.gif)
+![demo4](https://github.com/TechHamara/CircularMenuX/blob/main/demo/demo4.gif)
+![demo5](https://github.com/TechHamara/CircularMenuX/blob/main/demo/demo5.gif)
+![demo6](https://github.com/TechHamara/CircularMenuX/blob/main/demo/demo6.gif)
+
+### Thanks and Regards 
+TechHamara
