@@ -5,15 +5,15 @@ Developed by th aka TechHamara using Fast. It allows you to create an interactiv
 </div>
 
 ## 📝 Specifications
-* **
-💾 **Size:** 10.83 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-01-31 timezone="Indian/Maldives"]
-💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)
-⬇️ Demo apk https://github.com/TechHamara/CircularMenuX/blob/main/CircularMenuX.apk
-**Telegram:** [here](https://t.me/techhamara91)
-
+* **<br>
+💾 **Size:** 10.83 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-01-31 timezone="Indian/Maldives"]<br>
+💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)<br>
+⬇️ Demo apk https://github.com/TechHamara/CircularMenuX/blob/main/CircularMenuX.apk<br>
+**Telegram:** [here](https://t.me/techhamara91)<br>
+<br>
 ## <kbd>Events:</kbd>
 **CircularMenuX** has total 2 events.
 
