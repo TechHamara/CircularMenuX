@@ -146,4 +146,5 @@ Set the border color for items in the Circular Menu.
 Set the gap between items in degrees
 
 * Input type: `number`
-
+### Demos
+![Image Alt](https://github.com/TechHamara/CircularMenuX/blob/main/demo/1.jpg)
