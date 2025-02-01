@@ -12,6 +12,7 @@ Developed by th aka TechHamara using Fast. It allows you to create an interactiv
 📅 **Updated On:** [date=2025-01-31 timezone="Indian/Maldives"]
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)
 ⬇️ Demo apk https://github.com/TechHamara/CircularMenuX/blob/main/CircularMenuX.apk
+**Telegram:** [here](https://t.me/techhamara91)
 
 ## <kbd>Events:</kbd>
 **CircularMenuX** has total 2 events.
